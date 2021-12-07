@@ -5,6 +5,7 @@
 #footer {
     text-align: center;
     background: #EAEAEA;
+    margin-top: 10px;
 }
 #services {
     text-align: center;
@@ -40,6 +41,6 @@
     text-align: center;
     background: #EAEAEA;
 }
-span {
-    padding-left: 2%
+.alcohol {
+    margin-bottom: 10px;
 }
